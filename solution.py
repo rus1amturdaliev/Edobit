@@ -9,3 +9,6 @@ def playlist_name(mood):
 
 def join_message(username):
     return username + " has joined!";
+
+def remainder(x, y):
+  return x % y
