@@ -12,3 +12,6 @@ def join_message(username):
 
 def remainder(x, y):
   return x % y
+
+def encore_total(songs):
+    return songs +1
